@@ -1,5 +1,0 @@
-owner=390866409195831296
-prefix=D
-Dhelp
-stayinchannel=true
-songinstatus=true
